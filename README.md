@@ -1,4 +1,4 @@
 # Analisador de números
 Analisa os números adiconados e informa a média, a soma, o maior número, o menor número e a quantidade de números da lista. 
 
-<div><img src="https://user-images.githubusercontent.com/88912921/139962778-fc89703b-38b3-433f-a6e9-86739911a0f4.png"  width = 400px heigth = 400px></div>
+![adn](https://user-images.githubusercontent.com/97335833/152058546-bb0d4861-379c-435f-a953-1311977df9bd.gif)
